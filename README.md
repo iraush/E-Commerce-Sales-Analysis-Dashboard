@@ -47,3 +47,4 @@ Professional dark-themed dashboard design.<br>
 **Business Value**<br>
 This dashboard helps businesses track revenue growth, monitor profitability, analyze customer segments, evaluate regional performance, and identify top-performing product categories. It supports strategic decision-making by providing actionable insights into sales and operational performance.<br>
 
+![image alt](https://github.com/iraush/E-Commerce-Sales-Analysis-Dashboard/blob/de5279d97623c8a086947bbed7432a6fe43f65d9/SALES%20ANALYSIS.JPG)
