@@ -48,3 +48,5 @@ Professional dark-themed dashboard design.<br>
 This dashboard helps businesses track revenue growth, monitor profitability, analyze customer segments, evaluate regional performance, and identify top-performing product categories. It supports strategic decision-making by providing actionable insights into sales and operational performance.<br>
 
 ![image alt](https://github.com/iraush/E-Commerce-Sales-Analysis-Dashboard/blob/de5279d97623c8a086947bbed7432a6fe43f65d9/SALES%20ANALYSIS.JPG)
+
+![image alt](https://github.com/iraush/E-Commerce-Sales-Analysis-Dashboard/blob/9069a8f989f02bab385448e8ab3b3232e901e79f/ANALYSIS%202.JPG)
